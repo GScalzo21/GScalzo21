@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-- [🔗 LinkedIn](https://linkedin.com/in/giuseppe-scalzo)
+- [🔗 LinkedIn](https://linkedin.com/in/giuseppe-scalzo-)
 - [📸 Instagram](https://www.instagram.com/Scalzo21)
 - [🎥 YouTube](https://www.youtube.com/@Cyber_Donut21)
 
