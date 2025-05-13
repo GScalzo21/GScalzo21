@@ -11,6 +11,7 @@ Users must be prompted for a password when resuming from sleep while on battery 
 1. Press `Windows + R`, type `gpedit.msc`, and press Enter.
 2. Navigate to:
 
+Computer Configuration > Administrative Templates > System > Power Management > Sleep Settings
 
 3. Locate the setting:
 **"Require a password when a computer wakes (on battery)"**
