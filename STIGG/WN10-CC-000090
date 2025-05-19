@@ -1,0 +1,58 @@
+🛡️ STIG Remediation: Group Policy Objects Must Be Reprocessed Even If They Have Not Changed
+
+STIG ID: WN10-CC-000090
+SRG: SRG-OS-000480-GPOS-00227
+Severity: Medium
+CCI: CCI-000366
+Vulnerability ID: V-220814
+
+📖 Overview
+
+This STIG ensures that Group Policy Objects (GPOs) are reprocessed on each refresh cycle, even if there are no changes. This helps enforce domain-level policies and overwrite any unauthorized local modifications.
+
+🔍 Vulnerability Discussion
+
+Enabling this setting with the “Process even if the Group Policy objects have not changed” option forces consistent enforcement of GPOs. This helps ensure any deviations from domain policy are corrected during every refresh cycle, preventing policy drift or tampering.
+
+✅ Check: Registry Validation
+
+Verify the following registry value exists and is configured as specified:
+
+Registry Hive:  HKEY_LOCAL_MACHINE
+Registry Path:  \SOFTWARE\Policies\Microsoft\Windows\Group Policy\{35378EAC-683F-11D2-A89A-00C04FBBCFA2}
+
+Value Name:     NoGPOListChanges
+Value Type:     REG_DWORD
+Value:          0
+
+If this value is missing or not set to 0, this is a finding.
+🔧 Fix: Group Policy Configuration
+
+Open the Group Policy Management Console (gpedit.msc).
+Navigate to:
+
+```
+Computer Configuration >>
+Administrative Templates >>
+System >>
+Group Policy
+```
+
+Double-click “Configure registry policy processing”.
+Set it to Enabled.
+Under Options, check the box:
+✔️ "Process even if the Group Policy objects have not changed"
+Click Apply, then OK.
+
+🗂️ Resulting Registry Change
+
+After the Group Policy update is applied, this will modify the following registry key:
+Path:   HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Group Policy\{35378EAC-683F-11D2-A89A-00C04FBBCFA2}
+Key:    NoGPOListChanges
+Type:   REG_DWORD
+Value:  0
+
+💡 Notes
+
+After configuring the policy, run gpupdate /force to apply the changes immediately.
+This setting is especially important in high-security environments where GPO integrity is critical.
