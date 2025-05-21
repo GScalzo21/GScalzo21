@@ -1,0 +1,52 @@
+🔒 STIG Remediation: WN10-AU-000575
+
+Title: Windows 10 must be configured to audit MPSSVC Rule-Level Policy Change Successes
+Severity: Medium
+Status: ⚠️ Deprecated
+Audit Status: Manual Check
+STIG ID: WN10-AU-000575
+Vuln ID: V-220702
+SRG ID: SRG-OS-000476-GPOS-00221
+CCI: CCI-000172
+
+⚠️ Notice: Audit Deprecated
+
+This audit category has been deprecated and is expected to be removed in future Windows 10 updates. However, systems should still be configured accordingly if the option is available to maintain legacy compliance until officially retired.
+
+🔍 Finding
+
+Auditing MPSSVC Rule-Level Policy Changes helps track changes to rules that affect the Microsoft Protection Service (MPSSVC.exe). This can be useful for detecting unauthorized or unintended modifications to system firewall policies and other rule-based configurations.
+
+🛠️ Manual Configuration
+
+Open Local Group Policy Editor:
+Press Win + R, type gpedit.msc, and press Enter
+Navigate to:
+
+Computer Configuration >>
+Windows Settings >>
+Security Settings >>
+Advanced Audit Policy Configuration >>
+System Audit Policies >>
+Policy Change
+Locate and double-click:
+Audit MPSSVC Rule-Level Policy Change
+
+
+Check the box for:
+Success
+Click Apply and then OK
+
+✅ Verification (PowerShell)
+
+To verify this audit policy via PowerShell:
+
+AuditPol /get /subcategory:"MPSSVC Rule-Level Policy Change"
+Expected output:
+
+MPSSVC Rule-Level Policy Change   Success
+📌 Notes
+
+Logs related to this audit appear in the Security event log.
+Event IDs in this category may not appear on newer systems due to deprecation.
+Keep this policy configured for legacy support where applicable.
