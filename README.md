@@ -5,14 +5,20 @@
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## ⚠️ Vulnerability Management Projects
+## 👨‍💻 Cybersecurity Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/GScalzo21/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/GScalzo21/Programmatic-Vulnerability-Remediations-PowerShell-and-BASH-)**
+**[Vulnerability Management Program Implementation](https://github.com/GScalzo21/Vulnerability-Management-Program)**  
+Start to finish Vulnerability Management Program creation using Tenable Vulnerability Management
+
+**[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/GScalzo21/Programmatic-Vulnerability-Remediations-PowerShell-and-BASH-)**  
+Automated vulnerability remediation scripts for Windows and Linux environments using PowerShell and BASH
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GScalzo21/threat-hunting-scenario-tor)**
+**[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GScalzo21/threat-hunting-scenario-tor)**  
+Detecting and responding to unauthorized Tor browser usage with Defender XDR and MITRE ATT&CK mapping
+
+## 💬 BLOG (Coming soon)
 
 <hr/>
 
@@ -20,11 +26,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - [🔗 LinkedIn](https://linkedin.com/in/giuseppe-scalzo-)
 - [📸 Instagram](https://www.instagram.com/Scalzo21)
-- [🎥 YouTube](https://www.youtube.com/@Cyber_Donut21)
 
 
 
-[youtube]: https://www.youtube.com/@Cyber_Donut21
 [instagram]: https://www.instagram.com/Scalzo21
 [linkedin]: https://linkedin.com/in/giuseppe-scalzo
 
