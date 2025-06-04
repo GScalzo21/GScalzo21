@@ -1,6 +1,8 @@
 ![image](https://github.com/user-attachments/assets/d3bbe2b3-e507-4822-a192-95dbde9824df)
 
-# Hi, I'm <a href="https://www.linkedin.com/in/giuseppe-scalzo-/"/>Giuseppe Scalzo</a>! I'm a Cybersecurity Professional with over a decade of investigative experience.
+<h1 align="center">
+  Hi, I'm <a href="https://www.linkedin.com/in/giuseppe-scalzo-/" target="_blank">Giuseppe Scalzo</a>! I'm a Cybersecurity Professional with over a decade of investigative experience.
+</h1>
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
