@@ -10,15 +10,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 **[Vulnerability Management Program Implementation](https://github.com/GScalzo21/Vulnerability-Management-Program)**  
 Start to finish Vulnerability Management Program creation using Tenable Vulnerability Management
 
-**[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/GScalzo21/Programmatic-Vulnerability-Remediations-PowerShell-and-BASH-)**  
-Automated vulnerability remediation scripts for Windows and Linux environments using PowerShell and BASH
-
 ## 🚨 Threat Hunting and Security Operations
 
 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GScalzo21/threat-hunting-scenario-tor)**  
 Detecting and responding to unauthorized Tor browser usage with Defender XDR and MITRE ATT&CK mapping
 
-## 💬 BLOG (Coming soon)
+## 💬 BLOG
+
+[🛡️ From Detective to Defender: How One Conversation Sparked My Cybersecurity Career](https://github.com/GScalzo21/BLOG/blob/GScalzo21/FromDetectivetoDefender.md)
 
 <hr/>
 
