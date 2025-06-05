@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/d3bbe2b3-e507-4822-a192-95dbde9824df)
 
-<h1 align="center">
+<h1>
   Hi, I'm <a href="https://www.linkedin.com/in/giuseppe-scalzo-/" target="_blank">Giuseppe Scalzo</a>! I'm a Cybersecurity Professional with over a decade of investigative experience.
 </h1>
 
