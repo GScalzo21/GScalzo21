@@ -21,40 +21,52 @@ Computer Configuration
    └─ Windows Components
       └─ Data Collection and Preview Builds
          └─ “Allow Telemetry”
+```
 
+## 🛠️ Step-by-Step Remediation
 
-Step‑by‑Step Remediation
+### Open Group Policy Editor
 
-Open Group Policy Editor
-Press Win + R, type gpedit.msc, and press Enter.
-Navigate to the Telemetry Policy
+- Press `Win + R`, type `gpedit.msc`, and press **Enter**.
+
+---
+
+### Navigate to the Telemetry Policy
+
 Expand:
 
+```text
 Computer Configuration
 └─ Administrative Templates
    └─ Windows Components
       └─ Data Collection and Preview Builds
+Locate "Allow Telemetry"
+```
 
-Locate “Allow Telemetry”
-In the right pane, find Allow Telemetry.
-Configure the Policy
-Double‑click Allow Telemetry.
-Select Enabled.
-Under Options, choose:
-0 – Security [Enterprise Only] (recommended for enterprises)
-1 – Basic (if some Microsoft services require it)
-Click OK.
-Apply the Change
-Open an elevated Command Prompt and run:
+## 🛠️ Configure the Policy
 
+### In the right pane:
+
+- Find **Allow Telemetry**.
+
+---
+
+### Configure the Setting
+
+1. Double-click **Allow Telemetry**.
+2. Select: ✅ **Enabled**.
+3. Under **Options**, choose:
+
+    - `0` — **Security [Enterprise Only]** *(recommended for enterprises)*  
+    - `1` — **Basic** *(if some Microsoft services require it)*
+
+4. Click **OK**.
+
+---
+
+## 🔄 Apply the Change
+
+Open an **elevated Command Prompt** and run:
+
+```powershell
 gpupdate /force
-
-Verify Configuration
-In Registry Editor (regedit), navigate to:
-
-HKLM\SOFTWARE\Policies\Microsoft\Windows\DataCollection
-
-
-Ensure the AllowTelemetry DWORD is set to:
-0 (Security) or
-1 (Basic)
