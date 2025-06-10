@@ -4,8 +4,7 @@
   Hi, I'm <a href="https://www.linkedin.com/in/giuseppe-scalzo-/" target="_blank">Giuseppe Scalzo</a>! I'm a Cybersecurity Professional with over a decade of investigative experience.
 </h1>
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+I'm a career switcher diving deep into cybersecurity — building hands-on skills through threat hunting, vulnerability management, and cloud security projects. From documenting STIG remediations to running hunts in Microsoft Defender XDR and AWS, this GitHub is where I track my progress and share what I’m learning along the way. Feel free to explore — more projects coming soon!"
 
 ## 👨‍💻 Cybersecurity Projects
 
