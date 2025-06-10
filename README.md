@@ -19,7 +19,7 @@ Detecting and responding to unauthorized Tor browser usage with Defender XDR and
 
 ## 💬 BLOG
 
-[☁️Navigating the Cloud: A Newcomer's Journey with Azure and AWS](https://github.com/GScalzo21/BLOG/blob/GScalzo21/Navigating%20the%20Cloud%3A%20A%20Newcomer's%20Journey%20with%20Azure%20and%20AWS.md) June 9th, 2025
+[☁️Navigating the Cloud: A Newcomer's Journey with Azure and AWS](https://github.com/GScalzo21/BLOG/blob/GScalzo21/NavigatingtheCloud:ANewcomer'sJourneywith%20AzureandAWS.md) June 9th, 2025
 
 [🛡️ From Detective to Defender: How One Conversation Sparked My Cybersecurity Career](https://github.com/GScalzo21/BLOG/blob/GScalzo21/FromDetectivetoDefender.md) June 2nd, 2025
 
