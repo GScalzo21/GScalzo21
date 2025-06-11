@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/d3bbe2b3-e507-4822-a192-95dbde9824df)
 
 <h1>
-  Hi, I'm <a href="https://www.linkedin.com/in/giuseppe-scalzo-/" target="_blank">Giuseppe Scalzo</a>! I'm a Cybersecurity Professional with over a decade of investigative experience.
+  Hi, I'm <a href="https://www.linkedin.com/in/giuseppe-scalzo-/" target="_blank">Giuseppe Scalzo</a>!, — a former Detective now tracking adversaries across the digital landscape.
 </h1>
 
 I'm a career switcher diving deep into cybersecurity — building hands-on skills through threat hunting, vulnerability management, and cloud security projects. From documenting STIG remediations to running hunts in Microsoft Defender XDR and AWS, this GitHub is where I track my progress and share what I’m learning along the way. Feel free to explore — more projects coming soon!"
