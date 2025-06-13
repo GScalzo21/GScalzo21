@@ -13,7 +13,7 @@ Start to finish Vulnerability Management Program creation using Tenable Vulnerab
 
 ## 🚨 Threat Hunting and Security Operations
 
-**[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GScalzo21/threat-hunting-scenario-tor)**  
+**[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GScalzo21/Threat-Hunting-Portfolio/tree/GScalzo21/threat-hunting-scenario-tor-Main)**  
 Detecting and responding to unauthorized Tor browser usage with Defender XDR and MITRE ATT&CK mapping
 
 ## 💬 BLOG
