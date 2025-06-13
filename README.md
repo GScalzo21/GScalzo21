@@ -16,6 +16,12 @@ Start to finish Vulnerability Management Program creation using Tenable Vulnerab
 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GScalzo21/Threat-Hunting-Portfolio/tree/GScalzo21/threat-hunting-scenario-tor-Main)**  
 Detecting and responding to unauthorized Tor browser usage with Defender XDR and MITRE ATT&CK mapping
 
+## 🛡️ Windows Hardening & Compliance
+
+**[Windows 10 STIG Hardening & Compliance Portfolio](https://github.com/GScalzo21/STIG-Hardening-Portfolio)**                                                                              
+Collection of Windows 10 STIG remediations and system hardening scripts.
+
+
 ## 💬 BLOG
 
 [☁️Navigating the Cloud: A Newcomer's Journey with Azure and AWS](https://github.com/GScalzo21/BLOG/blob/GScalzo21/NavigatingtheCloud:ANewcomer'sJourneywith%20AzureandAWS.md) June 9th, 2025
