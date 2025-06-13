@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d3bbe2b3-e507-4822-a192-95dbde9824df)
+![image](https://github.com/user-attachments/assets/648821a5-6894-4b63-9813-f67c4d09e296)
 
 <h1>
   Hi, I'm <a href="https://www.linkedin.com/in/giuseppe-scalzo-/" target="_blank">Giuseppe Scalzo</a>! — a former Detective now tracking adversaries across the digital landscape.
