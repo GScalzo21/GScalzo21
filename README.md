@@ -11,6 +11,9 @@ I'm a career switcher diving deep into cybersecurity — building hands-on skill
 **[Vulnerability Management Program Implementation](https://github.com/GScalzo21/Vulnerability-Management-Program)**  
 Start to finish Vulnerability Management Program creation using Tenable Vulnerability Management
 
+**[Phishing Simulation Using SET](https://github.com/GScalzo21/phishing-campaign-setoolkit/tree/GScalzo21)**  
+Credential harvesting via cloned login page using SET in a controlled red team lab environment.
+
 ## 🚨 Threat Hunting and Security Operations
 
 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GScalzo21/Threat-Hunting-Portfolio/tree/GScalzo21/threat-hunting-scenario-tor-Main)**  
