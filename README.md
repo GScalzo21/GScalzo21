@@ -27,7 +27,9 @@ Collection of Windows 10 STIG remediations and system hardening scripts.
 
 ## 💬 BLOG
 
-**[How Social Engineers Bypass Security – A Real World Look](https://github.com/GScalzo21/BLOG/blob/GScalzo21/How%20-Social-Engineers-Bypass-Security-A-Real-World-Look.md)** July 1st, 2025  --- NEW ---
+**[🎯 My First Cybersecurity Job Interview: A Reflective Recap](https://github.com/GScalzo21/BLOG/blob/GScalzo21/My-First-Cybersecurity-Job-Interview%3A-A-Reflective-Recap.md)** July 12th, 2025
+
+**[How Social Engineers Bypass Security – A Real World Look](https://github.com/GScalzo21/BLOG/blob/GScalzo21/How%20-Social-Engineers-Bypass-Security-A-Real-World-Look.md)** July 1st, 2025  
 
 **[Search Parameter Injection: The Scam You Didn’t See Coming](https://github.com/GScalzo21/BLOG/blob/GScalzo21/Search-Parameter-Injection-The-Scam-You-Didn%E2%80%99t-See-Coming.md)** June 24th, 2025 
 
