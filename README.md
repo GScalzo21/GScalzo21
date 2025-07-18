@@ -24,6 +24,12 @@ Detecting and responding to unauthorized Tor browser usage with Defender XDR and
 **[Windows 10 STIG Hardening & Compliance Portfolio](https://github.com/GScalzo21/STIG-Hardening-Portfolio)**                                                                              
 Collection of Windows 10 STIG remediations and system hardening scripts.
 
+### 🏅 Certifications
+
+**[CompTIA Security+](https://www.credly.com/badges/56dcdd28-334c-4aea-9077-02b5c29e6e7e/linked_in_profile)**  
+**[TCM Security: Practical SOC Analyst Associate (PSAA)](https://pdf.credential.net/g00x9dkr_1744199057426_2c1be49a63870f4ceaa6b242dd7695e887bcf3ec9d5faf3e6a709f564fb8437c.pdf)**  
+**[Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/giuseppescalzo-9146/credentials/7e22c4f72efa7f3d?ref=https%3A%2F%2Fwww.linkedin.com%2F)**
+
 
 ## 💬 BLOG
 
@@ -38,7 +44,6 @@ Collection of Windows 10 STIG remediations and system hardening scripts.
 **[Navigating the Cloud: A Newcomer's Journey with Azure and AWS](https://github.com/GScalzo21/BLOG/blob/GScalzo21/NavigatingtheCloud:ANewcomer'sJourneywith%20AzureandAWS.md)** June 9th, 2025
 
 **[From Detective to Defender: How One Conversation Sparked My Cybersecurity Career](https://github.com/GScalzo21/BLOG/blob/GScalzo21/FromDetectivetoDefender.md)** June 2nd, 2025
-
 
 
 
