@@ -8,6 +8,9 @@ I'm a career switcher diving deep into cybersecurity — building hands-on skill
 
 ## 👨‍💻 Cybersecurity Projects
 
+**[Microsoft SC-200 Labs: Security Operations Analyst](https://github.com/GScalzo21/Microsoft-SC200-Labs)**  
+Hands-on labs simulating real-world threats and detections using Microsoft Defender XDR, Sentinel, and more—built to prepare for the Microsoft SC-200 certification exam.
+
 **[Vulnerability Management Program Implementation](https://github.com/GScalzo21/Vulnerability-Management-Program)**  
 Start to finish Vulnerability Management Program creation using Tenable Vulnerability Management
 
