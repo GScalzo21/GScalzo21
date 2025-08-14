@@ -22,6 +22,11 @@ Credential harvesting via cloned login page using SET in a controlled red team l
 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/GScalzo21/Threat-Hunting-Portfolio/tree/GScalzo21/threat-hunting-scenario-tor-Main)**  
 Detecting and responding to unauthorized Tor browser usage with Defender XDR and MITRE ATT&CK mapping
 
+## 📊 Governance, Risk, and Compliance  
+
+**[Governance, Risk, and Compliance Capstone Project](https://github.com/GScalzo21/GRC-Capstone)**  
+Designed a comprehensive Corporate Cybersecurity Program aligned to the **NIST Cybersecurity Framework (CSF) 2.0**, performing a full gap assessment and providing actionable recommendations to strengthen governance, risk management, and compliance.  
+
 ## 🛡️ Windows Hardening & Compliance
 
 **[Windows 10 STIG Hardening & Compliance Portfolio](https://github.com/GScalzo21/STIG-Hardening-Portfolio)**                                                                              
