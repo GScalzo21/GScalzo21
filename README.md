@@ -7,8 +7,8 @@ I'm a former Detective building my career in **Governance, Risk & Compliance (GR
 
 ## 📊 Governance, Risk, and Compliance
 
-**[Building an ISO 27001 ISMS for a $2B Credit Union — GRC Consulting Engagement](https://github.com/GScalzo21/Credit-Union-ISMS-ISO27001)**<br>
-A complete Information Security Management System built for a credit union recovering from a phishing-driven wire-fraud incident. Aligned to **ISO/IEC 27001:2022**, **NIST CSF 2.0**, **FFIEC**, and **GLBA** — including a 47-risk quantitative register, a Statement of Applicability across all **93 Annex A controls**, third-party risk management, a physical-security & workplace-violence program, incident response, business continuity, and an 18-month roadmap to certification.
+**[GRC Program Capstone — Cumberland Trust Federal Credit Union ($2B)](https://github.com/GScalzo21/GRC-Capstone-CTFCU)**<br>
+A complete Governance, Risk & Compliance program built for a fictional $2B regional credit union recovering from a phishing-driven account compromise that surfaced during NCUA examination. Aligned to **NIST CSF 2.0**, **ISO/IEC 27001:2022**, **FFIEC**, and **GLBA** — including a **15-risk quantitative register** with treatment plan and $893K capex / $387K annual opex roll-up, a converged **cyber + physical security** approach, third-party risk model, workplace violence prevention program, incident response, and an 18-month implementation roadmap to ISO 27001 certification.
 
 **[Corporate Cybersecurity Assessment — NIST CSF 2.0](https://github.com/GScalzo21/GRC-Capstone)**<br>
 Designed a comprehensive Corporate Cybersecurity Program aligned to the **NIST Cybersecurity Framework (CSF) 2.0**, performing a full gap assessment and providing actionable recommendations to strengthen governance, risk management, and compliance.
